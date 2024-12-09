@@ -33,7 +33,7 @@ pip install pandas python-docx openpyxl
 
 ### 1. Prepare Your Input Document
 
-Create a `.docx` file (e.g., `congressional_tracking.docx`) containing information about bills and resolutions, following a structure like:
+Create a `.docx` file (SPECIFICALLY NAMED `congressional_tracking.docx`) containing information about bills and resolutions, following a structure like:
 
 ```
 House:
